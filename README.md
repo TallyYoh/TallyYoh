@@ -3,8 +3,9 @@
 - 🌱 I’m a postdoctoral researcher at the Durrell Institute for Conservation & Ecology
 - 🍖 My current research focuses on urban wildmeat consumption in Central & West Africa
   
-      understanding why people consume wildmeat
-      and how it can be done sustainably while also protecting human health
+      Understanding why people consume wildmeat in urban Africa
+      How it can be done sustainably
+      How we can safeguard human health from disease spillover risk
   
 - 🦗 I am also very interested in how we can use and improve acoustic tools for monitoring biodiversity
 - 🦇 *Soft spot for bats*
